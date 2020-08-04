@@ -8,4 +8,4 @@
 </br>:books:Futuro Cientista da Computação na UNB :school:
 </br>:open_file_folder:Estou aprofundando o conhecimento em Javascript :yellow_heart:
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/obrunovargas?style=social)](https://img.shields.io/twitter/follow/obrunovargas?style=social)
+[![Twitter Badge](https://img.shields.io/twitter/follow/obrunovargas?style=social)](https://twitter.com/intent/follow?screen_name=obrunovargas)
