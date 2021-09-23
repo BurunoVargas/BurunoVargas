@@ -5,7 +5,7 @@
 ## Hello!
 
 
-</br>:books:Computer Science at UNB :school:
+</br>:books:Computer Science at UnB :school:
 </br>:open_file_folder:Learning more about Python, C++ and Competitive Programming:yellow_heart:
 
 [![Linkedin Badge](https://img.shields.io/badge/-BrunoVargas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-vargas-8b713b189/)](https://www.linkedin.com/in/bruno-vargas-8b713b189/)
