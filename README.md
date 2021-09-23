@@ -4,7 +4,7 @@
 
 ## Hello!
 
-</br>:computer:I'm beginning in the development area
+
 </br>:books:Computer Science at UNB :school:
 </br>:open_file_folder:Learning more about Python, C++ and Competitive Programming:yellow_heart:
 
