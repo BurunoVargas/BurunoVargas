@@ -1,4 +1,8 @@
-<img width = "auto" src = "https://github.com/BrunoVarg/BrunoVarg/blob/master/gatinho.gif">
+<p align=center>
+  
+  <img width = "auto" src = "https://github.com/BrunoVarg/BrunoVarg/blob/master/gatinho.gif">
+  
+ </p>
 
 # Bruno Vargas
 
