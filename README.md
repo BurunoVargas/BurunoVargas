@@ -33,7 +33,9 @@
 
 
 <p align= center>
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-vargas-8b713b189/)](https://www.linkedin.com/in/b-vargas/)
 [![Gmail Badge](https://img.shields.io/badge/-brunovargas7899@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunovargas7899@gmail.com)](mailto:brunovargas7899@gmail.com)
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/B_Vargas)
+ 
 </p>
