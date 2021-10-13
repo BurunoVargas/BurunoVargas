@@ -9,6 +9,7 @@
 </br>:open_file_folder:Learning more about Python, C++ and Competitive Programming:yellow_heart:
 
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoVarg&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoVarg&langs_count=8)](https://github.com/BrunoVarg/github-readme-stats)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-BrunoVargas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-vargas-8b713b189/)](https://www.linkedin.com/in/bruno-vargas-8b713b189/)
