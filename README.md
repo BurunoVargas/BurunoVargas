@@ -4,7 +4,7 @@
 
 ## Hello!
 
-</br>:books:Computer Science at UnB :school:
+</br>:books:Undergraduating in Computer Science at UnB :school:
 </br>:open_file_folder:Learning more about Python, C++ and Competitive Programming:yellow_heart:
 
 
