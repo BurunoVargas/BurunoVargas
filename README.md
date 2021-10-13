@@ -4,14 +4,15 @@
 
 ## Hello!
 <p align=center><i> 	:dizzy: Be the change you want to see in the world. :dizzy:</i></p>
+
 <p align=center>
-  
 </br>:books:Undergraduating in Computer Science at UnB :school:
 </br>:open_file_folder:Learning more about Python, C++ and Competitive Programming:yellow_heart:
+</p>
 
 
 
-  
+ <p align=center>
   <img width = "auto" src = "https://github.com/BrunoVarg/BrunoVarg/blob/master/gatinho.gif">
   
  </p>
