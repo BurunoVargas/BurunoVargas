@@ -3,7 +3,7 @@
 # Bruno Vargas
 
 ## Hello!
-
+<p align=center> 	:dizzy: Be the change you want to see in the world. :dizzy:</p>
 </br>:books:Undergraduating in Computer Science at UnB :school:
 </br>:open_file_folder:Learning more about Python, C++ and Competitive Programming:yellow_heart:
 
