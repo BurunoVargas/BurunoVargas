@@ -1,17 +1,19 @@
-<p align=center>
-  
-  <img width = "auto" src = "https://github.com/BrunoVarg/BrunoVarg/blob/master/gatinho.gif">
-  
- </p>
+
 
 # Bruno Vargas
 
 ## Hello!
 
-
 </br>:books:Computer Science at UnB :school:
 </br>:open_file_folder:Learning more about Python, C++ and Competitive Programming:yellow_heart:
 
+
+<p align=center>
+  
+  <img width = "auto" src = "https://github.com/BrunoVarg/BrunoVarg/blob/master/gatinho.gif">
+  
+ </p>
+ 
 <details>
   <summary><b> :octocat: GitHub Stats :octocat: </b></summary>
   
