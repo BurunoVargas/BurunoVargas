@@ -7,12 +7,26 @@
 
 <p align=center>
 </br>:books:Undergraduating in Computer Science at UnB :school:
-</br>:open_file_folder:Learning more about Python, C++ and Competitive Programming:yellow_heart:
 </p>
 
 
 
- <p align=center>
+ <p align="center">
+ 
+ [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+ [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
+ [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+ [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+ [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+ [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
+ [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+ [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+ [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+ 
+ </p>
+ 
+ <p align =center>
+ 
   <img width = "auto" src = "https://github.com/BrunoVarg/BrunoVarg/blob/master/gatinho.gif">
   
  </p>
@@ -34,8 +48,8 @@
 
 <p align= center>
  
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-vargas-8b713b189/)](https://www.linkedin.com/in/b-vargas/)
-[![Gmail Badge](https://img.shields.io/badge/-brunovargas7899@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunovargas7899@gmail.com)](mailto:brunovargas7899@gmail.com)
-[![Codeforces Badge](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/B_Vargas)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-vargas/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunovargas7899@gmail.com)
+[![Codeforces Badge](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Varguitas)
  
 </p>
