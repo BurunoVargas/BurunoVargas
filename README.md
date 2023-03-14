@@ -50,6 +50,6 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-vargas/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunovargas7899@gmail.com)
-[![Codeforces Badge][![Badge](https://cp-logo.vercel.app/codeforces/Varguitas)]](https://codeforces.com/profile/Varguitas)
+[![Badge](https://cp-logo.vercel.app/codeforces/Varguitas)](https://codeforces.com/profile/Varguitas)
  
 </p>
