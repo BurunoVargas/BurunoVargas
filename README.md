@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="1000" alt="Acenar">
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="1000" alt="Linha">
 
 # Hi there, I'm Bruno Vargas <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" alt="Acenar">
 
@@ -7,7 +7,7 @@
 
 <img src="https://github.com/BrunoVarg/BrunoVarg/blob/master/gatinho.gif" width="100" alt="Gatinho codando"> 
 
-<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="30" alt="Coder">  <b>About me</b> 
+<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="30" alt="Coder">  _*About me*_ 
 
 👨‍🎓 I'm a final-year computer science student with a passion for technology and problem-solving. 
 
@@ -20,8 +20,12 @@
 🚀 Logic puzzles and complex algorithms are my favorite way to learn and grow. Always ready for a new challenge!
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=burunovargas&row=1&theme=dark_lover" width="700" alt="Acenar">
+   <img src="https://github-profile-trophy.vercel.app/?username=burunovargas&row=1&theme=dark_lover" width="700" alt="Trofeu">
 </div>
+
+<img src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30" alt="Skills"> _*Skills*_
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000" alt="Linha">
 
  <p align="center">
  
@@ -36,32 +40,25 @@
  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
  
  </p>
+
+ <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="30" alt="Skills"> _*GitHub Stats*_
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000" alt="Linha">
  
- <p align =center>
- 
-  
-  
- </p>
- 
-<details>
-  <summary><b> :octocat: GitHub Stats :octocat: </b></summary>
-  
-  ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoVarg&show_icons=true&theme=radical)
-  
-</details>
- 
-<details>
-  <summary><b> :technologist: Most used Languages :technologist: </b></summary>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoVarg&langs_count=8)](https://github.com/BrunoVarg/github-readme-stats)
-  
-</details>
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoVarg&show_icons=true&theme=radical)  [![GitHub Streak](https://streak-stats.demolab.com?user=burunovargas&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoVarg&langs_count=8)](https://github.com/BrunoVarg/github-readme-stats)
+
+<div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/burunovargas"/>  
+</div>
 
 
-<p align= center>
- 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-vargas/)
+
+<div align= "center">
+
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-vargas/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunovargas7899@gmail.com)
-[![Badge](https://cp-logo.vercel.app/codeforces/Varguitas)](https://codeforces.com/profile/Varguitas)
- 
-</p>
+[![Codeforces](https://badges.riever.dev/codeforces/varguitas.svg)](https://codeforces.com/profile/Varguitas)
+</div>
