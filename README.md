@@ -1,8 +1,8 @@
-![](https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif)
 
-# Bruno Vargas
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="1000" alt="Acenar">
 
-## Hello!
+# Hi there, I'm Bruno Vargas <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" alt="Acenar">
+
 <p align=center><i> 	:dizzy: Be the change you want to see in the world. :dizzy:</i></p>
 
 <p align=center>
