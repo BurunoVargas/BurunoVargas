@@ -3,13 +3,25 @@
 
 # Hi there, I'm Bruno Vargas <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" alt="Acenar">
 
-<p align=center><i> 	:dizzy: Be the change you want to see in the world. :dizzy:</i></p>
+ 
 
-<p align=center>
-</br>:books:Undergraduating in Computer Science at UnB :school:
-</p>
+<img src="https://github.com/BrunoVarg/BrunoVarg/blob/master/gatinho.gif" width="100" alt="Gatinho codando"> 
 
+<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="30" alt="Coder">  <b>About me</b> 
 
+👨‍🎓 I'm a final-year computer science student with a passion for technology and problem-solving. 
+
+💻 I’m particularly drawn to back-end development and have hands-on experience in web development.
+
+🏆 I enjoy competitive programming, tackling logic and algorithm challenges to keep my skills sharp.
+
+🤖 Currently, I'm also involved in AI research, exploring innovative solutions and learning from every project.
+
+🚀 Logic puzzles and complex algorithms are my favorite way to learn and grow. Always ready for a new challenge!
+
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=burunovargas&row=1&theme=dark_lover" width="1000" alt="Acenar">
+</div>
 
  <p align="center">
  
@@ -27,7 +39,7 @@
  
  <p align =center>
  
-  <img width = "auto" src = "https://github.com/BrunoVarg/BrunoVarg/blob/master/gatinho.gif">
+  
   
  </p>
  
