@@ -20,7 +20,7 @@
 🚀 Logic puzzles and complex algorithms are my favorite way to learn and grow. Always ready for a new challenge!
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=burunovargas&row=1&theme=dark_lover" width="800" alt="Acenar">
+   <img src="https://github-profile-trophy.vercel.app/?username=burunovargas&row=1&theme=dark_lover" width="700" alt="Acenar">
 </div>
 
  <p align="center">
