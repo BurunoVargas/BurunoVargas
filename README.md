@@ -89,11 +89,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=BrunoVarg&show_icons=true&theme=radical" alt="Imagem 1" width="480px">
+      <img src="https://github-readme-stats.vercel.app/api?username=BurunoVargas&show_icons=true&theme=radical" alt="Imagem 1" width="480px">
       <img src="https://streak-stats.demolab.com?user=burunovargas&theme=dark" alt="Imagem 2" width="480px">
     </td>
     <td rowspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoVarg&langs_count=8" alt="Imagem 3" width="500px">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurunoVargas&langs_count=8" alt="Imagem 3" width="500px">
     </td>
   </tr>
 </table>
