@@ -9,7 +9,7 @@
 
 <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="30" alt="Coder">  _**About me**_ 
 
-👨‍🎓 I'm a final-year computer science student with a passion for technology and problem-solving. 
+👨‍🎓 I'm a final-year Computer Science student and a Growth Data & AI Intern at QuintoAndar, specializing in Data Science and Engineering.
 
 💻 I’m particularly drawn to back-end development and have hands-on experience in web development.
 
